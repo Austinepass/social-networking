@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/feeds"
+        android:enabled="true"
+        android:icon="@drawable/home_ic"
+        android:title="Feeds"/>
+    <item
+        android:id="@+id/online_community"
+        android:enabled="true"
+        android:icon="@drawable/home_ic"
+        android:title="Online Community"/>
+
+    <item
+        android:id="@+id/opportunity"
+        android:enabled="true"
+        android:icon="@drawable/home_ic"
+        android:title="Opportunity Listing"/>
+    <item
+        android:id="@+id/social_int"
+        android:enabled="true"
+        android:icon="@drawable/home_ic"
+        android:title="Social Integration"/>
+
+    <item
+        android:id="@+id/inbox"
+        android:enabled="true"
+        android:icon="@drawable/home_ic"
+        android:title="Inbox"/>
+</menu>
